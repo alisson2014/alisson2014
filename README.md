@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-vinicius-morais-de-almeida-027553252)
 
-![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson2014&show_icons=true&theme=dracula)
+![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson2014&show_icons=true&theme=onedark)
 
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"></br>
