@@ -1,7 +1,7 @@
 ### Hello, I'm Alisson Vinícius | Olá, eu sou o Alisson Vinícius 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-vinicius-morais-de-almeida-027553252)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidaalisson2014@gmail.com?subject=Ol%C3%A1+vamos+conversar%20sobre...)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidaalisson2014@gmail.com?subject=Ol%C3%A1,%20vamos%20conversar%20sobre%20(digite%20aqui))
 
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson2014&show_icons=true&theme=tokyonight)
 
