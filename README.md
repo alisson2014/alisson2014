@@ -13,10 +13,10 @@ Estudante e entusiasta de tecnologia, sempre buscando novos conhecimentos nos di
 </div>
 
 ## Tecnologias front-end
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,react,styledcomponents,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,jquery,materialui,styledcomponents,html,css,sass,bootstrap)](https://skillicons.dev)
 
 ## Tecnologias back-end
-[![My Skills](https://skillicons.dev/icons?i=php,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,sqlite,mysql)](https://skillicons.dev)
 
 ## Devops
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
