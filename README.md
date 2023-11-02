@@ -12,11 +12,5 @@ Estudante e entusiasta de tecnologia, sempre buscando novos conhecimentos nos di
   <img height="180em" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson2014&layout=compact&langs_count=5&theme=radical"/>
 </div>
 
-## Tecnologias front-end
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,jquery,materialui,styledcomponents,html,css,sass,bootstrap)](https://skillicons.dev)
-
-## Tecnologias back-end
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,sqlite,mysql)](https://skillicons.dev)
-
-## Devops
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,sqlite,mysql,git,github,linux,docker,react,ts,js,jquery,materialui,styledcomponents,html,css,sass,bootstrap,vscode)](https://skillicons.dev)
